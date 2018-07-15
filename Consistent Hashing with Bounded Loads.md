@@ -9,4 +9,5 @@
 
 ### Reference
 1. https://arxiv.org/abs/1608.01350
+2. Maglev: A Fast and Reliable Software Network Load Balancer
 
