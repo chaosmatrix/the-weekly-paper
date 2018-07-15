@@ -5,6 +5,7 @@
 
 ## Note
 1. Algorithm
+
 |Action| Uniform|List|Tree|Straw|
 |------|------|------|------|------|
 |Speed|O(1)|O(n)|O(logn)|O(n)|
