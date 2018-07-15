@@ -7,3 +7,6 @@
     * hash-balance-factor
     * via forwarding, respecting server load
 
+### Reference
+1. https://arxiv.org/abs/1608.01350
+
