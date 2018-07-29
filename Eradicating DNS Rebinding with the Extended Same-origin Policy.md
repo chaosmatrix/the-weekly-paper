@@ -23,3 +23,4 @@
 
 ## References
 1. https://www.usenix.org/system/files/conference/usenixsecurity13/sec13-paper_johns.pdf
+2. https://www.w3.org/Security/wiki/Same_Origin_Policy
